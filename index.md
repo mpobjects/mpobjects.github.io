@@ -2,7 +2,9 @@
 
 Please visit the [github page](https://github.com/mpobjects) for an overview of various OpenSource projects of [MP Objects](https://www.mp-objects.com).
 
-### Online Java Thread Dump Analyser
+### Project Highlights
+
+#### Online Java Thread Dump Analyser
 
 The [Online Java Thread Dump Analyser](https://mpobjects.github.io/threaddump-analyzer/) is a javascript based analyzer of JVM thread dumps. It runs completely client side, so no sensitive information is send to any server.
 
