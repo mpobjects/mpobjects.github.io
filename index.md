@@ -8,8 +8,8 @@ Please visit the [github page](https://github.com/mpobjects) for an overview of 
 
 ### Project Highlights
 
-#### Online Java Thread Dump Analyser
+#### jstack.review
 
-The [Online Java Thread Dump Analyser](https://mpobjects.github.io/threaddump-analyzer/) is a javascript based analyzer of JVM thread dumps. It runs completely client side, so no sensitive information is send to any server.
+[jstack.review](https://jstack.review/) is a javascript based analyzer of JVM thread dumps. It runs completely client side, so no sensitive information is send to any server.
 
-It is based on the thread dump analyse started by Spotify and extended with a while bunch of additional features.
+It is based on the thread dump analyzer started by Spotify and extended with a whole bunch of additional features.
