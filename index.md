@@ -2,7 +2,7 @@
 title: MP Objects OSS
 ---
 
-# Welcome to MP Objects' GitHub page
+**Welcome to MP Objects' GitHub page**
 
 Please visit the [github page](https://github.com/mpobjects) for an overview of various OpenSource projects of [MP Objects](https://www.mp-objects.com).
 
