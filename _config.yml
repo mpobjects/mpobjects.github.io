@@ -2,3 +2,5 @@ theme: jekyll-theme-leap-day
 
 name: MP Objects OSS
 description: OpenSource projects by MP Objects
+
+show_downloads: false
